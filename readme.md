@@ -14,8 +14,3 @@
 ## nhà tài trợ
 Nhờ giấy phép dự án mã nguồn mở được cung cấp bởi [Jetbrains](https://www.jetbrains.com/)
 
-## Cộng đồng
-🔔 Kênh Telegram: [@v2board](https://t.me/v2board)  
-
-## Phản hồi
-Phiên bản được dịch bởi: [Đậu Đậu](https://zalo.me/0983538806)  
